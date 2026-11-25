@@ -1,0 +1,13 @@
+{
+  "name": "bera-notes-app",
+  "version": "1.0.0",
+  "description": "Node.js Express notes web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests available\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
